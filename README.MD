@@ -25,11 +25,6 @@
 + [Startup 和 Middleware](http://www.cnblogs.com/vipyoumay/p/5640645.html)，*帅虫哥，2016/07/04*
 + [ASP.NET Core 中间件之压缩、缓存](http://www.cnblogs.com/savorboard/p/aspnetcore-response-compression-caching.html)，*Savorboard，2016/12/13*
 
-#### Identity ####
-+ [ASP.NET Core 之 Identity 入门（一）](http://www.cnblogs.com/savorboard/p/aspnetcore-identity.html)，*Savorboard，2016/11/04*
-+ [ASP.NET Core 之 Identity 入门（二）](http://www.cnblogs.com/savorboard/p/aspnetcore-identity2.html)，*Savorboard，2016/11/11*
-+ [ASP.NET Core 之 Identity 入门（三）](http://www.cnblogs.com/savorboard/p/aspnetcore-identity3.html)，*Savorboard，2016/11/25*
-
 ### 控制反转（IoC）与依赖注入（DI） ###
 + [控制反转（IOC）](http://www.cnblogs.com/artech/p/asp-net-core-di-ioc.html)，*蒋金楠，2016/04/04*
 + [依赖注入（DI）](http://www.cnblogs.com/artech/p/asp-net-core-di-di.html)，*蒋金楠，2016/04/04*
@@ -38,6 +33,13 @@
 + [ServiceProvider 实现的总体设计](http://www.cnblogs.com/artech/p/asp-net-core-di-service-provider-1.html)、[ServiceCallSite](http://www.cnblogs.com/artech/p/asp-net-core-di-service-provider-2.html)与[其他](http://www.cnblogs.com/artech/p/asp-net-core-di-service-provider-3.html)，*蒋金楠，2016/04/11~16*
 + [学习 ASP.NET Core，你必须了解无处不在的“依赖注入”](http://www.cnblogs.com/artech/p/dependency-injection-in-asp-net-core.html)，*蒋金楠，2016/07/04*
 
+### Asp.Net Core
++ [如何使用 HttpContext.Current](http://www.cnblogs.com/maxzhang1985/p/6186455.html)，*[max zhang](https://github.com/maxzhang1985)，2016/12/16*
+
+#### Identity ####
++ [ASP.NET Core 之 Identity 入门（一）](http://www.cnblogs.com/savorboard/p/aspnetcore-identity.html)，*Savorboard，2016/11/04*
++ [ASP.NET Core 之 Identity 入门（二）](http://www.cnblogs.com/savorboard/p/aspnetcore-identity2.html)，*Savorboard，2016/11/11*
++ [ASP.NET Core 之 Identity 入门（三）](http://www.cnblogs.com/savorboard/p/aspnetcore-identity3.html)，*Savorboard，2016/11/25*
 
 ## 反馈与联系 ##
 
