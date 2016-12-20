@@ -4,11 +4,11 @@
 
 以下条目将随时增加或移除。
 
-## 资源 ##
+## 工具 ##
 
 + 导出  Excel [NPOI Core](https://github.com/yuleyule66/Npoi.Core)（[NuGet](https://www.nuget.org/packages?q=Savorboard.NPOI)）
 
-## 推荐文章 ##
+## 文章 ##
 
 + [.NET Core 环境搭建和命令行CLI入门](http://www.cnblogs.com/shanyou/p/5636920.html)，*张善友，2016/07/04*
 + [project.json、project.lock.json、*.xproj  以及 global.json](http://www.cnblogs.com/shanyou/p/5693453.html)，*张善友，2016/07/22*
