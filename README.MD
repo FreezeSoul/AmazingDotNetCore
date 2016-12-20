@@ -4,7 +4,9 @@
 
 以下条目将随时增加或移除。
 
-## 资源站 ##
+## 资源 ##
+
++ 导出  Excel [NPOI Core](https://github.com/yuleyule66/Npoi.Core)（[NuGet](https://www.nuget.org/packages?q=Savorboard.NPOI)）
 
 ## 推荐文章 ##
 
@@ -20,6 +22,12 @@
 
 ### 中间件 ###
 + [Startup 和 Middleware](http://www.cnblogs.com/vipyoumay/p/5640645.html)，*帅虫哥，2016/07/04*
++ [ASP.NET Core 中间件之压缩、缓存](http://www.cnblogs.com/savorboard/p/aspnetcore-response-compression-caching.html)，*Savorboard，2016/12/13*
+
+#### Identity ####
++ [ASP.NET Core 之 Identity 入门（一）](http://www.cnblogs.com/savorboard/p/aspnetcore-identity.html)，*Savorboard，2016/11/04*
++ [ASP.NET Core 之 Identity 入门（二）](http://www.cnblogs.com/savorboard/p/aspnetcore-identity2.html)，*Savorboard，2016/11/11*
++ [ASP.NET Core 之 Identity 入门（三）](http://www.cnblogs.com/savorboard/p/aspnetcore-identity3.html)，*Savorboard，2016/11/25*
 
 ### 控制反转（IoC）与依赖注入（DI） ###
 + [控制反转（IOC）](http://www.cnblogs.com/artech/p/asp-net-core-di-ioc.html)，*蒋金楠，2016/04/04*
