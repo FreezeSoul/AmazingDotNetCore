@@ -15,6 +15,10 @@
 
 ### 原理与机理 ###
 
+#### 概述 ####
++ [简析.NET Core 以及与 .NET Framework的关系](http://www.cnblogs.com/vipyoumay/p/5603928.html)，*帅虫哥，2016/6/21*
++ [简析 .NET Core 构成体系](http://www.cnblogs.com/vipyoumay/p/5613373.html)，*帅虫哥，2016/6/24*
+
 #### 中间件 ####
 + [Startup 和 Middleware](http://www.cnblogs.com/vipyoumay/p/5640645.html)，*帅虫哥，2016/07/04*
 
@@ -44,7 +48,7 @@
 
 #### WebSocket ####
 
-+ [WebSocket in ASP.NET Core](http://www.cnblogs.com/maxzhang1985/p/6208165.html),*[max zhang](https://github.com/maxzhang1985)，2016/12/21*
++ [WebSocket in ASP.NET Core](http://www.cnblogs.com/maxzhang1985/p/6208165.html)，*[max zhang](https://github.com/maxzhang1985)，2016/12/21*
 
 * * *
 
