@@ -42,6 +42,10 @@
 + [ASP.NET Core 之 Identity 入门（二）](http://www.cnblogs.com/savorboard/p/aspnetcore-identity2.html)，*Savorboard，2016/11/11*
 + [ASP.NET Core 之 Identity 入门（三）](http://www.cnblogs.com/savorboard/p/aspnetcore-identity3.html)，*Savorboard，2016/11/25*
 
+#### WebSocket ####
+
++ [WebSocket in ASP.NET Core](http://www.cnblogs.com/maxzhang1985/p/6208165.html),*[max zhang](https://github.com/maxzhang1985)，2016/12/21*
+
 * * *
 
 ### 实践 ###
