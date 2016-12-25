@@ -4,20 +4,35 @@
 
 以下条目将随时增加或移除。
 
-## 工具 ##
+## Useful .NET Core Library ##
 
-+ [JavaScriptServices](https://github.com/aspnet/JavaScriptServices)（[入门](http://www.cnblogs.com/savorboard/p/dotnet-javascript-services.html)）
-+ [NPOI Core](https://github.com/yuleyule66/Npoi.Core)（[NuGet](https://www.nuget.org/packages?q=Savorboard.NPOI)）
++ JavaScriptServices
+  + [Getting Start](http://www.cnblogs.com/savorboard/p/dotnet-javascript-services.html)
+  + Project homepage https://github.com/aspnet/JavaScriptServices
++ NPOI.Core
+  + [Getting Start](http://www.cnblogs.com/savorboard/p/netcore-npoi.html)
+  + Project homepage https://github.com/yuleyule66/Npoi.Core
+  + NuGet: https://www.nuget.org/packages?q=Savorboard.NPOI
+  + NPOI for nfx: https://github.com/tonyqus/npoi
 
 * * *
 
-## 文章 ##
+## Articles and books ##
 
-### 原理与机理 ###
-
-#### 概述 ####
+### 1. Gettting Start ###
 + [简析.NET Core 以及与 .NET Framework的关系](http://www.cnblogs.com/vipyoumay/p/5603928.html)，*帅虫哥，2016/6/21*
 + [简析 .NET Core 构成体系](http://www.cnblogs.com/vipyoumay/p/5613373.html)，*帅虫哥，2016/6/24*
++ [如果没有Visual Studio 2015，我们如何创建.NET Core项目 ？](http://www.cnblogs.com/artech/p/scaffolding-net-core.html)，*蒋金楠，2016/06/29*
+
+### CLR ###
++ [Book of the Runtime](https://github.com/dotnet/coreclr/blob/master/Documentation/botr/README.md) (book)
+    + [Introduction to the Common Language Runtime](https://github.com/dotnet/coreclr/blob/master/Documentation/botr/intro-to-clr.md)
+    + [Garbage Collection Design](https://github.com/dotnet/coreclr/blob/master/Documentation/botr/garbage-collection.md)
+    + [RyuJIT Overview](https://github.com/dotnet/coreclr/blob/master/Documentation/botr/ryujit-overview.md)
+    + [Type System](https://github.com/dotnet/coreclr/blob/master/Documentation/botr/type-system.md)
++ [公共语言运行时 (CLR)](https://msdn.microsoft.com/library/8bs2ecf4.aspx)
+
+### 原理与机理 ###
 
 #### 中间件 ####
 + [Startup 和 Middleware](http://www.cnblogs.com/vipyoumay/p/5640645.html)，*帅虫哥，2016/07/04*
