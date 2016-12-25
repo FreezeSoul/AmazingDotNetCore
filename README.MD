@@ -4,27 +4,31 @@
 
 以下条目将随时增加或移除。
 
-## Useful .NET Core Library ##
+## 1. Useful .NET Core Library ##
 
 + JavaScriptServices
-  + [Getting Start](http://www.cnblogs.com/savorboard/p/dotnet-javascript-services.html)
-  + Project homepage https://github.com/aspnet/JavaScriptServices
+    + [Getting Started](http://www.cnblogs.com/savorboard/p/dotnet-javascript-services.html)
+    + Project homepage https://github.com/aspnet/JavaScriptServices
 + NPOI.Core
-  + [Getting Start](http://www.cnblogs.com/savorboard/p/netcore-npoi.html)
-  + Project homepage https://github.com/yuleyule66/Npoi.Core
-  + NuGet: https://www.nuget.org/packages?q=Savorboard.NPOI
-  + NPOI for nfx: https://github.com/tonyqus/npoi
+    + [Getting Started](http://www.cnblogs.com/savorboard/p/netcore-npoi.html)
+    + Project homepage https://github.com/yuleyule66/Npoi.Core
+    + NuGet: https://www.nuget.org/packages?q=Savorboard.NPOI
+    + NPOI for nfx: https://github.com/tonyqus/npoi
 
 * * *
 
-## Articles and books ##
+## 2. Articles and books ##
 
-### 1. Gettting Start ###
+### 2.1. Gettting Started ###
 + [简析.NET Core 以及与 .NET Framework的关系](http://www.cnblogs.com/vipyoumay/p/5603928.html)，*帅虫哥，2016/6/21*
 + [简析 .NET Core 构成体系](http://www.cnblogs.com/vipyoumay/p/5613373.html)，*帅虫哥，2016/6/24*
 + [如果没有Visual Studio 2015，我们如何创建.NET Core项目 ？](http://www.cnblogs.com/artech/p/scaffolding-net-core.html)，*蒋金楠，2016/06/29*
 
-### CLR ###
+### 2.2. Concepts ###
+
+...
+
+### 2.7. CLR ###
 + [Book of the Runtime](https://github.com/dotnet/coreclr/blob/master/Documentation/botr/README.md) (book)
     + [Introduction to the Common Language Runtime](https://github.com/dotnet/coreclr/blob/master/Documentation/botr/intro-to-clr.md)
     + [Garbage Collection Design](https://github.com/dotnet/coreclr/blob/master/Documentation/botr/garbage-collection.md)
