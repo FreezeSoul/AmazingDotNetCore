@@ -7,7 +7,7 @@
 ## 1. Useful .NET Core Library ##
 
 + JavaScriptServices
-    + [Getting Started](http://www.cnblogs.com/savorboard/p/dotnet-javascript-services.html)
+    + [Getting Started](http://www.cnblogs.com/savorboard/p/dotnet-javascript-services.html)
     + Project homepage https://github.com/aspnet/JavaScriptServices
 + NPOI.Core
     + [Getting Started](http://www.cnblogs.com/savorboard/p/netcore-npoi.html)
@@ -20,11 +20,24 @@
 ## 2. Articles and books ##
 
 ### 2.1. Gettting Started ###
-+ [简析.NET Core 以及与 .NET Framework的关系](http://www.cnblogs.com/vipyoumay/p/5603928.html)，*帅虫哥，2016/6/21*
++ [简析 .NET Core 以及与 .NET Framework 的关系](http://www.cnblogs.com/vipyoumay/p/5603928.html)，*帅虫哥，2016/6/21*
 + [简析 .NET Core 构成体系](http://www.cnblogs.com/vipyoumay/p/5613373.html)，*帅虫哥，2016/6/24*
-+ [如果没有Visual Studio 2015，我们如何创建.NET Core项目 ？](http://www.cnblogs.com/artech/p/scaffolding-net-core.html)，*蒋金楠，2016/06/29*
++ [如果没有 Visual Studio 2015，我们如何创建 .NET Core 项目 ？](http://www.cnblogs.com/artech/p/scaffolding-net-core.html)，*蒋金楠，2016/06/29*
++ [通过几个 Hello World 感受 .NET Core 全新的开发体验](http://www.cnblogs.com/artech/p/net-core-hello-world.html)，*蒋金楠，2016/06/30*
 
 ### 2.2. Concepts ###
+
+#### 2.2.3. Middleware ####
++ [Startup 和 Middleware](http://www.cnblogs.com/vipyoumay/p/5640645.html)，*帅虫哥，2016/07/04*
+
+#### 2.2.4. Inversion of Control and Dependency Injection ####
++ [Wikipedia Entry for Inversion of Control](https://en.wikipedia.org/wiki/Inversion_of_control)
++ [Wikipedia Entry for Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection)
++ [控制反转（IOC）](http://www.cnblogs.com/artech/p/asp-net-core-di-ioc.html)，*蒋金楠，2016/04/04*
++ [依赖注入（DI）](http://www.cnblogs.com/artech/p/asp-net-core-di-di.html)，*蒋金楠，2016/04/04*
++ [服务的注册与提供](http://www.cnblogs.com/artech/p/asp-net-core-di-register.html)，*蒋金楠，2016/04/06*
++ [构造函数的选择与服务生命周期管理](http://www.cnblogs.com/artech/p/asp-net-core-di-life-time.html)，*蒋金楠，2016/04/10*
++ [ServiceProvider 实现的总体设计](http://www.cnblogs.com/artech/p/asp-net-core-di-service-provider-1.html)、[ServiceCallSite](http://www.cnblogs.com/artech/p/asp-net-core-di-service-provider-2.html)与[其他](http://www.cnblogs.com/artech/p/asp-net-core-di-service-provider-3.html)，*蒋金楠，2016/04/11~16*
 
 ...
 
@@ -35,18 +48,6 @@
     + [RyuJIT Overview](https://github.com/dotnet/coreclr/blob/master/Documentation/botr/ryujit-overview.md)
     + [Type System](https://github.com/dotnet/coreclr/blob/master/Documentation/botr/type-system.md)
 + [公共语言运行时 (CLR)](https://msdn.microsoft.com/library/8bs2ecf4.aspx)
-
-### 原理与机理 ###
-
-#### 中间件 ####
-+ [Startup 和 Middleware](http://www.cnblogs.com/vipyoumay/p/5640645.html)，*帅虫哥，2016/07/04*
-
-#### 控制反转（IoC）与依赖注入（DI） ####
-+ [控制反转（IOC）](http://www.cnblogs.com/artech/p/asp-net-core-di-ioc.html)，*蒋金楠，2016/04/04*
-+ [依赖注入（DI）](http://www.cnblogs.com/artech/p/asp-net-core-di-di.html)，*蒋金楠，2016/04/04*
-+ [服务的注册与提供](http://www.cnblogs.com/artech/p/asp-net-core-di-register.html)，*蒋金楠，2016/04/06*
-+ [构造函数的选择与服务生命周期管理](http://www.cnblogs.com/artech/p/asp-net-core-di-life-time.html)，*蒋金楠，2016/04/10*
-+ [ServiceProvider 实现的总体设计](http://www.cnblogs.com/artech/p/asp-net-core-di-service-provider-1.html)、[ServiceCallSite](http://www.cnblogs.com/artech/p/asp-net-core-di-service-provider-2.html)与[其他](http://www.cnblogs.com/artech/p/asp-net-core-di-service-provider-3.html)，*蒋金楠，2016/04/11~16*
 
 * * *
 
