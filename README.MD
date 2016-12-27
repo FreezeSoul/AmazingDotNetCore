@@ -6,9 +6,26 @@
 
 ## 1. Useful .NET Core Library ##
 
++ NuGet
+    + CnBlogs NuGetMmirror
+        + project homepage http://www.cnblogs.com/Zajanmy/p/6206548.html
+        + usage `https://nuget.cnblogs.com/v3/index.json`
+    + Lzzy Mirror
+        + project homepage http://nuget.lzzy.net
+        + github https://github.com/Kation/NugetProxy
+        + usage `http://nuget.lzzy.net/api/v2/`
++ EntityFramework Core
+    + [PomeloFoundation/Lolita](https://github.com/PomeloFoundation/Lolita)
+    A light-weight extension which provides bulk update and delete operations for Entity Framework Core.
+    + [PomeloFoundation/Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql)
+    Entity Framework Core provider for MySql built on top of mysql-net/MySqlConnector
+    + [PomeloFoundation/Pomelo.EntityFrameworkCore.MyCat](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MyCat)
+    Pomelo.EntityFrameworkCore.MyCat is an Entity Framework Core provider and optimized for MyCat (An open source MySQL cluster proxy which based on Cobar)
 + JavaScriptServices
     + [Getting Started](http://www.cnblogs.com/savorboard/p/dotnet-javascript-services.html)
     + Project homepage https://github.com/aspnet/JavaScriptServices
++ MySQL
+    + [PomeloFoundation/Pomelo.Data.MySql](https://github.com/PomeloFoundation/Pomelo.Data.MySql)
 + NPOI.Core
     + [Getting Started](http://www.cnblogs.com/savorboard/p/netcore-npoi.html)
     + Project homepage https://github.com/yuleyule66/Npoi.Core
@@ -63,7 +80,7 @@
 ##### 2.3.6.1 WebSocket #####
 + [WebSocket in ASP.NET Core](http://www.cnblogs.com/maxzhang1985/p/6208165.html)，*[max zhang](https://github.com/maxzhang1985)，2016/12/21*
 
-#### 2.3.7 Publish and Deploy ####
+#### 2.3.7 Publishing and Deployment ####
 + [Jexus 发布与部署](http://www.cnblogs.com/savorboard/p/dot-net-linux-jexus.html)，*Savorboard，2016/07/04*
 + [Nginx 发布与部署](http://www.cnblogs.com/savorboard/p/dotnet-core-publish-nginx.html)，*Savorboard，2016/07/04*
 + [Docker 部署](http://www.cnblogs.com/savorboard/p/dotnetcore-docker.html)，*Savorboard，2016/07/11*
