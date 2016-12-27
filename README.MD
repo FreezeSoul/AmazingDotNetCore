@@ -15,12 +15,9 @@
         + github https://github.com/Kation/NugetProxy
         + usage `http://nuget.lzzy.net/api/v2/`
 + EntityFramework Core
-    + [PomeloFoundation/Lolita](https://github.com/PomeloFoundation/Lolita)
-    A light-weight extension which provides bulk update and delete operations for Entity Framework Core.
-    + [PomeloFoundation/Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql)
-    Entity Framework Core provider for MySql built on top of mysql-net/MySqlConnector
-    + [PomeloFoundation/Pomelo.EntityFrameworkCore.MyCat](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MyCat)
-    Pomelo.EntityFrameworkCore.MyCat is an Entity Framework Core provider and optimized for MyCat (An open source MySQL cluster proxy which based on Cobar)
+    + [PomeloFoundation/Lolita](https://github.com/PomeloFoundation/Lolita)<br />A light-weight extension which provides bulk update and delete operations for Entity Framework Core.
+    + [PomeloFoundation/Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql)<br />Entity Framework Core provider for MySql built on top of mysql-net/MySqlConnector
+    + [PomeloFoundation/Pomelo.EntityFrameworkCore.MyCat](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MyCat)<br />Pomelo.EntityFrameworkCore.MyCat is an Entity Framework Core provider and optimized for MyCat (An open source MySQL cluster proxy which based on Cobar)
 + JavaScriptServices
     + [Getting Started](http://www.cnblogs.com/savorboard/p/dotnet-javascript-services.html)
     + Project homepage https://github.com/aspnet/JavaScriptServices
