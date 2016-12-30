@@ -4,6 +4,8 @@
 
 以下条目将随时增加或移除。
 
+[What's new in ASP.NET Core 1.1?](http://www.cnblogs.com/shanyou/p/6092372.html)
+
 ## NuGet Mirror ##
 + cnblogs NuGet Mirror
     + project homepage http://www.cnblogs.com/Zajanmy/p/6206548.html
@@ -28,6 +30,7 @@
 + JavaScriptServices
     + [Getting Started](http://www.cnblogs.com/savorboard/p/dotnet-javascript-services.html)
     + Project homepage https://github.com/aspnet/JavaScriptServices
+    + [使用 JavaScriptService 在 .NET Core 里实现 DES 加密算法](http://www.cnblogs.com/shanyou/p/6014352.html), *张善友<sup>MVP</sup>, 2016/11/1*
 + MySQL
     + [PomeloFoundation/Pomelo.Data.MySql](https://github.com/PomeloFoundation/Pomelo.Data.MySql)
 + NPOI.Core
@@ -40,16 +43,17 @@
 ## 2. Articles and books ##
 
 ### 2.1. Gettting Started ###
-+ [简析 .NET Core 以及与 .NET Framework 的关系](http://www.cnblogs.com/vipyoumay/p/5603928.html)， *帅虫哥, 2016/6/21*
-+ [简析 .NET Core 构成体系](http://www.cnblogs.com/vipyoumay/p/5613373.html)， *帅虫哥, 2016/6/24*
-+ [如果没有 Visual Studio 2015，我们如何创建 .NET Core 项目 ？](http://www.cnblogs.com/蒋金楠/p/scaffolding-net-core.html)， *蒋金楠<sup>MVP</sup>, 2016/06/29*
++ [What is .NET Core?](http://www.cnblogs.com/Wddpct/p/5694596.html)
++ [The architecture of .NET Core](http://www.cnblogs.com/vipyoumay/p/5613373.html)， *帅虫哥, 2016/6/24*
++ [The relationship between .NET Core, .NET Framework](http://www.cnblogs.com/vipyoumay/p/5603928.html) [and mono](http://www.cnblogs.com/shanyou/p/4295163.html)
++ [Without Visual Studio 2015, how we can build .NET Core project?](http://www.cnblogs.com/蒋金楠/p/scaffolding-net-core.html)， *蒋金楠<sup>MVP</sup>, 2016/06/29*
 + [通过几个 Hello World 感受 .NET Core 全新的开发体验](http://www.cnblogs.com/蒋金楠/p/net-core-hello-world.html)， *蒋金楠<sup>MVP</sup>, 2016/06/30*
 + [.NET Core On Mac - Building An ASP.NET Core App With Web API, EF, PostgreSQL And Running It On Docker](https://www.codeproject.com/Articles/1155738/NET-Core-On-Mac-Building-An-ASP-NET-Core-App-With), *Vincent Maverick Durano<sup>MVP</sup>, 2016/11/14*
 
 ### 2.2. Concepts ###
 
 #### 2.2.3. Middleware ####
-+ [Startup 和 Middleware](http://www.cnblogs.com/vipyoumay/p/5640645.html)， *帅虫哥，2016/07/04*
++ [Startup and Middleware](http://www.cnblogs.com/vipyoumay/p/5640645.html)， *帅虫哥，2016/07/04*
 
 #### 2.2.4. Inversion of Control and Dependency Injection ####
 + [Wikipedia Entry for Inversion of Control](https://en.wikipedia.org/wiki/Inversion_of_control) *en*
@@ -64,7 +68,8 @@
 
 #### 2.3.1 Getting Started ####
 + [ASP.NET Core: A More Realistic Starter Kit](https://www.simple-talk.com/dotnet/asp-net/asp-net-core-a-more-realistic-starter-kit/), *Dino Esposito, 2016/3/25*
-+ [如何使用 HttpContext.Current](http://www.cnblogs.com/maxzhang1985/p/6186455.html), *max zhang, 2016/12/16*
++ [ASP.NET Core 项目解读](http://www.cnblogs.com/Wddpct/p/5713986.html), *白细胞, 2016/7/28*
++ [How to use HttpContext.Current](http://www.cnblogs.com/maxzhang1985/p/6186455.html), *max zhang, 2016/12/16*
 
 
 #### 2.3.3 Middleware ####
@@ -80,16 +85,17 @@
 + [ASP.NET Core and Angular 2 Code Venture - Part 1](https://www.codeproject.com/articles/1124864/asp-net-core-and-angular-code-venture-part), *Vincent Maverick Durano<sup>MVP</sup>, 2016/10/13* *en*
 
 #### 2.3.7 Publishing and Deployment ####
-+ [Jexus 发布与部署](http://www.cnblogs.com/savorboard/p/dot-net-linux-jexus.html)，*Savorboard, 2016/07/04*
++ [Jexus 发布与部署](http://www.cnblogs.com/savorboard/p/dot-net-linux-jexus.html)， *Savorboard, 2016/07/04*
+    + [Jexus 5.8.2 为 Asp.Net Core 为生产环境提供平台支持](http://www.cnblogs.com/shanyou/p/jexus582.html), *张善友<sup>MVP</sup>, 2016/11/28*
 + [Nginx 发布与部署](http://www.cnblogs.com/savorboard/p/dotnet-core-publish-nginx.html)，*Savorboard, 2016/07/04*
 + [Docker 部署](http://www.cnblogs.com/savorboard/p/dotnetcore-docker.html)，*Savorboard, 2016/07/11*
++ [在传统 .NET Framework 上运行 ASP.NET Core 项目](http://www.cnblogs.com/shanyou/p/6036574.html), *张善友<sup>MVP</sup>, 2016/11/7*
 
 
 ### 2.4 Projects ###
-+ [.NET Core 环境搭建和命令行 CLI 入门](http://www.cnblogs.com/shanyou/p/5636920.html)，*张善友<sup>MVP</sup>, 2016/07/04*
-+ [project.json、project.lock.json、*.xproj  以及 global.json](http://www.cnblogs.com/shanyou/p/5693453.html)，*张善友<sup>MVP</sup>, 2016/07/22*
-+ [project.json 引用](https://docs.microsoft.com/zh-cn/dotnet/articles/core/tools/project-json)
-+ [global.json 引用](https://docs.microsoft.com/zh-cn/dotnet/articles/core/tools/global-json)
++ [.NET Core 环境搭建和命令行 CLI 入门](http://www.cnblogs.com/shanyou/p/5636920.html)， *张善友<sup>MVP</sup>, 2016/07/04*
++ [project.json 引用](https://docs.microsoft.com/zh-cn/dotnet/articles/core/tools/project-json), [global.json 引用](https://docs.microsoft.com/zh-cn/dotnet/articles/core/tools/global-json)
+    + [什么是 project.json、project.lock.json、*.xproj 以及 global.json？](http://www.cnblogs.com/shanyou/p/5693453.html)， *张善友<sup>MVP</sup>, 2016/07/22*
 
 ### 2.5 Skills and Tools using ###
 #### 2.5.1 ASP.NET Identity ####
@@ -97,9 +103,18 @@
 + [ASP.NET Core 之 Identity 入门（二）](http://www.cnblogs.com/savorboard/p/aspnetcore-identity2.html)，*Savorboard, 2016/11/11*
 + [ASP.NET Core 之 Identity 入门（三）](http://www.cnblogs.com/savorboard/p/aspnetcore-identity3.html)，*Savorboard, 2016/11/25*
 
-#### 2.5.2 WebSocket #####
+#### 2.5.2 Autofac ####
++ [Autofac in ASP.NET Core](http://docs.autofac.org/en/lastest/integration/aspnetcore.html) *en*
+
+#### 2.5.3 EntrtyFramework Core ####
+
+#### 2.5.4 WebSocket #####
 + [WebSocket in ASP.NET Core](http://www.cnblogs.com/maxzhang1985/p/6208165.html)，*max zhang, 2016/12/21*
 
+...
+
+#### 2.5.9 NuGet ####
++ [使用 NuGet 打包类库](http://www.cnblogs.com/shanyou/p/5814683.html), *张善友<sup>MVP</sup>, 2016/08/29*
 ...
 
 ### 2.7. CLR ###
