@@ -38,6 +38,14 @@
     + Project homepage https://github.com/yuleyule66/Npoi.Core
     + NuGet: https://www.nuget.org/packages?q=Savorboard.NPOI
     + NPOI for nfx: https://github.com/tonyqus/npoi
++ RestSharp
+    + [Getting Started](http://restsharp.org)
+    + NuGet: http://www.nuget.org/packages/RestSharp
+    + RestSharp for nfx: http://restsharp.org
++ SharpZibLib
+    + Project homepage: https://github.com/icsharpcode/SharpZipLib
+    + NuGet: http://www.nuget.org/packages/SharpZipLib.NETStandard/
+    + SharpZibLib for nfx: http://www.nuget.org/packages/SharpZipLib/
 
 
 ## 2. Articles and books ##
@@ -107,6 +115,9 @@
 + [Autofac in ASP.NET Core](http://docs.autofac.org/en/lastest/integration/aspnetcore.html) *en*
 
 #### 2.5.3 EntrtyFramework Core ####
++ [How EFCore creates DbContext instance?](http://www.cnblogs.com/CreateMyself/p/6224141.html), *JeffckyWang, 2016/12/27*
++ [Add/Attach/Update/Remove 方法使用详解](http://www.cnblogs.com/CreateMyself/p/6238455.html), *JeffckyWang, 2016/12/31*
++ [Raw SQL](http://www.cnblogs.com/CreateMyself/p/6254241.html), *JeffckyWang, 2017/1/6*
 
 #### 2.5.4 WebSocket #####
 + [WebSocket in ASP.NET Core](http://www.cnblogs.com/maxzhang1985/p/6208165.html)，*max zhang, 2016/12/21*
