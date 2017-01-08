@@ -54,8 +54,8 @@
 + [What is .NET Core?](http://www.cnblogs.com/Wddpct/p/5694596.html)
 + [The architecture of .NET Core](http://www.cnblogs.com/vipyoumay/p/5613373.html)， *帅虫哥, 2016/6/24*
 + [The relationship between .NET Core, .NET Framework](http://www.cnblogs.com/vipyoumay/p/5603928.html) [and mono](http://www.cnblogs.com/shanyou/p/4295163.html)
-+ [Without Visual Studio 2015, how we can build .NET Core project?](http://www.cnblogs.com/蒋金楠/p/scaffolding-net-core.html)， *蒋金楠<sup>MVP</sup>, 2016/06/29*
-+ [通过几个 Hello World 感受 .NET Core 全新的开发体验](http://www.cnblogs.com/蒋金楠/p/net-core-hello-world.html)， *蒋金楠<sup>MVP</sup>, 2016/06/30*
++ [Without Visual Studio 2015, how we can build .NET Core project?](http://www.cnblogs.com/artech/p/scaffolding-net-core.html)， *蒋金楠<sup>MVP</sup>, 2016/06/29*
++ [通过几个 Hello World 感受 .NET Core 全新的开发体验](http://www.cnblogs.com/artech/p/net-core-hello-world.html)， *蒋金楠<sup>MVP</sup>, 2016/06/30*
 + [.NET Core On Mac - Building An ASP.NET Core App With Web API, EF, PostgreSQL And Running It On Docker](https://www.codeproject.com/Articles/1155738/NET-Core-On-Mac-Building-An-ASP-NET-Core-App-With), *Vincent Maverick Durano<sup>MVP</sup>, 2016/11/14*
 
 ### 2.2. Concepts ###
@@ -66,11 +66,11 @@
 #### 2.2.4. Inversion of Control and Dependency Injection ####
 + [Wikipedia Entry for Inversion of Control](https://en.wikipedia.org/wiki/Inversion_of_control) *en*
 + [Wikipedia Entry for Dependency Injection](https://en.wikipedia.org/wiki/Dependency_injection) *en*
-+ [控制反转（IOC）](http://www.cnblogs.com/蒋金楠/p/asp-net-core-di-ioc.html)， *蒋金楠<sup>MVP</sup>, 2016/04/04*
-+ [依赖注入（DI）](http://www.cnblogs.com/蒋金楠/p/asp-net-core-di-di.html)， *蒋金楠<sup>MVP</sup>, 2016/04/04*
-+ [服务的注册与提供](http://www.cnblogs.com/蒋金楠/p/asp-net-core-di-register.html)， *蒋金楠<sup>MVP</sup>, 2016/04/06*
-+ [构造函数的选择与服务生命周期管理](http://www.cnblogs.com/蒋金楠/p/asp-net-core-di-life-time.html)， *蒋金楠<sup>MVP</sup>, 2016/04/10*
-+ [ServiceProvider 实现的总体设计](http://www.cnblogs.com/蒋金楠/p/asp-net-core-di-service-provider-1.html)、[ServiceCallSite](http://www.cnblogs.com/蒋金楠/p/asp-net-core-di-service-provider-2.html)与[其他](http://www.cnblogs.com/蒋金楠/p/asp-net-core-di-service-provider-3.html)， *蒋金楠<sup>MVP</sup>, 2016/04/11~16*
++ [控制反转（IOC）](http://www.cnblogs.com/artech/p/asp-net-core-di-ioc.html)， *蒋金楠<sup>MVP</sup>, 2016/04/04*
++ [依赖注入（DI）](http://www.cnblogs.com/artech/p/asp-net-core-di-di.html)， *蒋金楠<sup>MVP</sup>, 2016/04/04*
++ [服务的注册与提供](http://www.cnblogs.com/artech/p/asp-net-core-di-register.html)， *蒋金楠<sup>MVP</sup>, 2016/04/06*
++ [构造函数的选择与服务生命周期管理](http://www.cnblogs.com/artech/p/asp-net-core-di-life-time.html)， *蒋金楠<sup>MVP</sup>, 2016/04/10*
++ [ServiceProvider 实现的总体设计](http://www.cnblogs.com/artech/p/asp-net-core-di-service-provider-1.html)、[ServiceCallSite](http://www.cnblogs.com/artech/p/asp-net-core-di-service-provider-2.html)与[其他](http://www.cnblogs.com/artech/p/asp-net-core-di-service-provider-3.html)， *蒋金楠<sup>MVP</sup>, 2016/04/11~16*
 
 ### 2.3 ASP.NET Core ###
 
@@ -84,7 +84,10 @@
 + [ASP.NET Core 中间件之压缩、缓存](http://www.cnblogs.com/savorboard/p/aspnetcore-response-compression-caching.html)， *Savorboard, 2016/12/13*
 
 #### 2.3.4 Dependency Injection ####
-+ [学习 ASP.NET Core，你必须了解无处不在的“依赖注入”](http://www.cnblogs.com/蒋金楠/p/dependency-injection-in-asp-net-core.html)， *蒋金楠<sup>MVP</sup>, 2016/07/04*
++ [学习 ASP.NET Core，你必须了解无处不在的“依赖注入”](http://www.cnblogs.com/artech/p/dependency-injection-in-asp-net-core.html)， *蒋金楠<sup>MVP</sup>, 2016/07/04*
++ [避免在 ASP.NET Core 中使用服务定位器模式](http://www.cnblogs.com/redmoon/p/5205488.html), *朱永光<sup>MVC</sup>, 2016/2/21*
+    + [Avoiding the Service Locator Pattern in ASP.NET Core](http://odetocode.com/blogs/scott/archives/2016/2/18/avoiding-the-service-locator-pattern-in-asp-net-core.aspx), *K. Scott Allen, 2016.2.18* *en*
+    + [Service Locator is na Anti-Pattern](http://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/),*Mark Seemann, 2010/2/3* *en*
 
 #### 2.3.5 Asp.Net Core x Front-End ####
 
