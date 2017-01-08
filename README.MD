@@ -71,31 +71,38 @@
 + [服务的注册与提供](http://www.cnblogs.com/artech/p/asp-net-core-di-register.html)， *蒋金楠<sup>MVP</sup>, 2016/04/06*
 + [构造函数的选择与服务生命周期管理](http://www.cnblogs.com/artech/p/asp-net-core-di-life-time.html)， *蒋金楠<sup>MVP</sup>, 2016/04/10*
 + [ServiceProvider 实现的总体设计](http://www.cnblogs.com/artech/p/asp-net-core-di-service-provider-1.html)、[ServiceCallSite](http://www.cnblogs.com/artech/p/asp-net-core-di-service-provider-2.html)与[其他](http://www.cnblogs.com/artech/p/asp-net-core-di-service-provider-3.html)， *蒋金楠<sup>MVP</sup>, 2016/04/11~16*
++ [必备 .NET - 使用 .NET Core 实现依赖关系注入](https://msdn.microsoft.com/magazine/mt707634), *Mark Michaelis<sup>MVP</sup>, 2016/6*
 
 ### 2.3 ASP.NET Core ###
 
-#### 2.3.1 Getting Started ####
+#### Getting Started ####
 + [ASP.NET Core: A More Realistic Starter Kit](https://www.simple-talk.com/dotnet/asp-net/asp-net-core-a-more-realistic-starter-kit/), *Dino Esposito, 2016/3/25*
 + [ASP.NET Core 项目解读](http://www.cnblogs.com/Wddpct/p/5713986.html), *白细胞, 2016/7/28*
 + [How to use HttpContext.Current](http://www.cnblogs.com/maxzhang1985/p/6186455.html), *max zhang, 2016/12/16*
 
-
-#### 2.3.3 Middleware ####
+#### Middleware ####
 + [ASP.NET Core 中间件之压缩、缓存](http://www.cnblogs.com/savorboard/p/aspnetcore-response-compression-caching.html)， *Savorboard, 2016/12/13*
 
-#### 2.3.4 Dependency Injection ####
+#### Configuration ####
++ [必备 .NET - .NET Core 中的配置](https://msdn.microsoft.com/magazine/mt632279), *Mark Michaelis<sup>MVP</sup>, 2016/2*
++ [ASP.NET Core 的配置：读取配置信息](http://www.cnblogs.com/artech/p/asp-net-core-config-01.html), *蒋金楠<sup>MVP</sup>, 2016/4/17*
++ [ASP.NET Core 的配置：配置模型详解](http://www.cnblogs.com/artech/p/asp-net-core-config-02.html), *蒋金楠<sup>MVP</sup>, 2016/4/19*
++ [ASP.NET Core 的配置：将配置绑定为对象（上）](http://www.cnblogs.com/artech/p/asp-net-core-config-03.html), *蒋金楠<sup>MVP</sup>, 2016/4/20*
++ [ASP.NET Core 的配置：将配置绑定为对象（下）](http://www.cnblogs.com/artech/p/asp-net-core-config-04.html), *蒋金楠<sup>MVP</sup>, 2016/4/21*
++ [ASP.NET Core 的配置：多样性的配置来源（上）](http://www.cnblogs.com/artech/p/asp-net-core-config-4-1.html), *蒋金楠<sup>MVP</sup>, 2016/4/25*
++ [ASP.NET Core 的配置：多样性的配置来源（中）](http://www.cnblogs.com/artech/p/asp-net-core-config-4-2.html), *蒋金楠<sup>MVP</sup>, 2016/4/26*
++ [ASP.NET Core 的配置：多样性的配置来源（下）](http://www.cnblogs.com/artech/p/asp-net-core-config-4-3.html), *蒋金楠<sup>MVP</sup>, 2016/4/27*
++ [ASP.NET Core 的配置：配置的同步（上）](http://www.cnblogs.com/artech/p/asp-net-core-config-5-1.html), *蒋金楠<sup>MVP</sup>, 2016/5/9*
++ [ASP.NET Core 的配置：配置的同步（上）](http://www.cnblogs.com/artech/p/asp-net-core-config-5-2.html), *蒋金楠<sup>MVP</sup>, 2016/5/11*
+
+
+#### Dependency Injection ####
 + [学习 ASP.NET Core，你必须了解无处不在的“依赖注入”](http://www.cnblogs.com/artech/p/dependency-injection-in-asp-net-core.html)， *蒋金楠<sup>MVP</sup>, 2016/07/04*
-+ [避免在 ASP.NET Core 中使用服务定位器模式](http://www.cnblogs.com/redmoon/p/5205488.html), *朱永光<sup>MVC</sup>, 2016/2/21*
++ [避免在 ASP.NET Core 中使用服务定位器模式](http://www.cnblogs.com/redmoon/p/5205488.html), *朱永光<sup>MVP</sup>, 2016/2/21*
     + [Avoiding the Service Locator Pattern in ASP.NET Core](http://odetocode.com/blogs/scott/archives/2016/2/18/avoiding-the-service-locator-pattern-in-asp-net-core.aspx), *K. Scott Allen, 2016.2.18* *en*
     + [Service Locator is na Anti-Pattern](http://blog.ploeh.dk/2010/02/03/ServiceLocatorisanAnti-Pattern/),*Mark Seemann, 2010/2/3* *en*
 
-#### 2.3.5 Asp.Net Core x Front-End ####
-
-##### 2.3.5.1 AngularJs 2 #####
-+ [ASP.NET Core: Getting Started with AngularJS 2](https://www.codeproject.com/Articles/1105223/ASP-NET-Core-Getting-Started-with-AngularJS), *Vincent Maverick Durano<sup>MVP</sup>, 2016/6/30* *en*
-+ [ASP.NET Core and Angular 2 Code Venture - Part 1](https://www.codeproject.com/articles/1124864/asp-net-core-and-angular-code-venture-part), *Vincent Maverick Durano<sup>MVP</sup>, 2016/10/13* *en*
-
-#### 2.3.7 Publishing and Deployment ####
+#### Publishing and Deployment ####
 + [Jexus 发布与部署](http://www.cnblogs.com/savorboard/p/dot-net-linux-jexus.html)， *Savorboard, 2016/07/04*
     + [Jexus 5.8.2 为 Asp.Net Core 为生产环境提供平台支持](http://www.cnblogs.com/shanyou/p/jexus582.html), *张善友<sup>MVP</sup>, 2016/11/28*
 + [Nginx 发布与部署](http://www.cnblogs.com/savorboard/p/dotnet-core-publish-nginx.html)，*Savorboard, 2016/07/04*
@@ -109,20 +116,24 @@
     + [什么是 project.json、project.lock.json、*.xproj 以及 global.json？](http://www.cnblogs.com/shanyou/p/5693453.html)， *张善友<sup>MVP</sup>, 2016/07/22*
 
 ### 2.5 Skills and Tools using ###
-#### 2.5.1 ASP.NET Identity ####
+#### ASP.NET Identity ####
 + [ASP.NET Core 之 Identity 入门（一）](http://www.cnblogs.com/savorboard/p/aspnetcore-identity.html)，*Savorboard, 2016/11/04*
 + [ASP.NET Core 之 Identity 入门（二）](http://www.cnblogs.com/savorboard/p/aspnetcore-identity2.html)，*Savorboard, 2016/11/11*
 + [ASP.NET Core 之 Identity 入门（三）](http://www.cnblogs.com/savorboard/p/aspnetcore-identity3.html)，*Savorboard, 2016/11/25*
 
-#### 2.5.2 Autofac ####
+#### Autofac ####
 + [Autofac in ASP.NET Core](http://docs.autofac.org/en/lastest/integration/aspnetcore.html) *en*
 
-#### 2.5.3 EntrtyFramework Core ####
+#### EntrtyFramework Core ####
 + [How EFCore creates DbContext instance?](http://www.cnblogs.com/CreateMyself/p/6224141.html), *JeffckyWang, 2016/12/27*
 + [Add/Attach/Update/Remove 方法使用详解](http://www.cnblogs.com/CreateMyself/p/6238455.html), *JeffckyWang, 2016/12/31*
 + [Raw SQL](http://www.cnblogs.com/CreateMyself/p/6254241.html), *JeffckyWang, 2017/1/6*
 
-#### 2.5.4 WebSocket #####
+#### AngularJs 2 ####
++ [ASP.NET Core: Getting Started with AngularJS 2](https://www.codeproject.com/Articles/1105223/ASP-NET-Core-Getting-Started-with-AngularJS), *Vincent Maverick Durano<sup>MVP</sup>, 2016/6/30* *en*
++ [ASP.NET Core and Angular 2 Code Venture - Part 1](https://www.codeproject.com/articles/1124864/asp-net-core-and-angular-code-venture-part), *Vincent Maverick Durano<sup>MVP</sup>, 2016/10/13* *en*
+
+#### WebSocket #####
 + [WebSocket in ASP.NET Core](http://www.cnblogs.com/maxzhang1985/p/6208165.html)，*max zhang, 2016/12/21*
 
 ...
