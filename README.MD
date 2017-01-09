@@ -33,6 +33,14 @@
     + [使用 JavaScriptService 在 .NET Core 里实现 DES 加密算法](http://www.cnblogs.com/shanyou/p/6014352.html), *张善友<sup>MVP</sup>, 2016/11/1*
 + MySQL
     + [PomeloFoundation/Pomelo.Data.MySql](https://github.com/PomeloFoundation/Pomelo.Data.MySql)
++ System.Drawing
+    + ZKWeb.System.Drawing
+        + project homepage https://github.com/zkweb-framework/zkweb.system.drawing
+        + nuget: https://www.nuget.com/packages/ZKWeb.System.Drawing
+    + ImageProcessor
+        + project homepage http://imageprocessor.org
+        + project homepage https://github.com/JimBobSquarePants/ImageProcessor/
+        + nuget: https://www.nuget.com/packages/ImageProcessor/
 + NPOI.Core
     + [Getting Started](http://www.cnblogs.com/savorboard/p/netcore-npoi.html)
     + Project homepage https://github.com/yuleyule66/Npoi.Core
@@ -46,7 +54,9 @@
     + Project homepage: https://github.com/icsharpcode/SharpZipLib
     + NuGet: http://www.nuget.org/packages/SharpZipLib.NETStandard/
     + SharpZibLib for nfx: http://www.nuget.org/packages/SharpZipLib/
-
++ QRCode
+    + project home: https://github.com/zkweb-framework/QRCode
+    + nuget: https://www.nuget.com/packages/ZKWeb.Fork.QRCode
 
 ## 2. Articles and books ##
 
