@@ -105,6 +105,9 @@
 + [ASP.NET Core 的配置：配置的同步（上）](http://www.cnblogs.com/artech/p/asp-net-core-config-5-1.html), *蒋金楠<sup>MVP</sup>, 2016/5/9*
 + [ASP.NET Core 的配置：配置的同步（上）](http://www.cnblogs.com/artech/p/asp-net-core-config-5-2.html), *蒋金楠<sup>MVP</sup>, 2016/5/11*
 
+#### Tag Helpers ####
++ [MVC Core 1.0 的 Tag Helper](https://dotblogs.com.tw/aspnetshare/2016/08/01/20160731-customtaghelperbasic)，*中华人民共和国台湾省匿名网友, 2016/8/1*
++ [MVC Core 1.0 的 Tag Helper（續）](https://dotblogs.com.tw/aspnetshare/2016/08/15/20160814-mvctaghelper-p2)，*中华人民共和国台湾省匿名网友, 2016/8/15*
 
 #### Dependency Injection ####
 + [学习 ASP.NET Core，你必须了解无处不在的“依赖注入”](http://www.cnblogs.com/artech/p/dependency-injection-in-asp-net-core.html)， *蒋金楠<sup>MVP</sup>, 2016/07/04*
