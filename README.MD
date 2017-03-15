@@ -124,10 +124,8 @@
 
 
 ### 2.4 Projects ###
-+ [.NET Core 环境搭建和命令行 CLI 入门](http://www.cnblogs.com/shanyou/p/5636920.html)， *张善友<sup>MVP</sup>, 2016/07/04*
-+ [project.json 引用](https://docs.microsoft.com/zh-cn/dotnet/articles/core/tools/project-json), [global.json 引用](https://docs.microsoft.com/zh-cn/dotnet/articles/core/tools/global-json)
-    + [什么是 project.json、project.lock.json、*.xproj 以及 global.json？](http://www.cnblogs.com/shanyou/p/5693453.html)， *张善友<sup>MVP</sup>, 2016/07/22*
-
++ [.NET Core 环境搭建和命令行 CLI 入门](http://www.cnblogs.com/shanyou/p/5636920.html), *张善友<sup>MVP</sup>, 2016/07/04*
++ [.NET Core 迁移到 MSBuild 指南（一）](http://dotnet.ren/2017/02/28/Core%E8%BF%81%E7%A7%BB%E5%88%B0MSBuild%E7%9A%84%E5%A4%9A%E5%B9%B3%E5%8F%B0%E7%BC%96%E8%AF%91%E9%97%AE%E9%A2%98/)、[（二）](http://dotnet.ren/2017/03/14/project-json-to-csproj/), *Yoyofx, 2017/03/14*
 ### 2.5 Skills and Tools using ###
 #### ASP.NET Identity ####
 + [ASP.NET Core 之 Identity 入门（一）](http://www.cnblogs.com/savorboard/p/aspnetcore-identity.html)，*Savorboard, 2016/11/04*
